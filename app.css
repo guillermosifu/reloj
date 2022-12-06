@@ -4,8 +4,36 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 background-attachment: fixed;
 background-size: cover;
 
-color: #fff;
+
 }
+
+.image{
+    margin-bottom: 2rem;
+}
+.container h3{
+    text-transform: uppercase;
+    color: rgb(25, 25, 25);
+    font-size: 2rem;
+}
+.container p{
+    color: #fff;
+}
+
+.deadline-format{
+    background-color: #000000;
+    border-radius: 10px;
+    margin-right: 1rem;
+    width: 5rem;
+    height: 5rem;
+    display: grid;
+    place-items: center;
+    text-align: center;
+    color: #fff;
+}
+
+
+
+
 
 .emoji{
     background: url("https://i.postimg.cc/LXJvR3qD/1.jpg");
